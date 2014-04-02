@@ -1,0 +1,45 @@
+{
+	"9o.hist./Users/jason/Desktop":
+	[
+		"run"
+	],
+	"9o.hist./opt/dev/shark4_go/src":
+	[
+		"help",
+		"build"
+	],
+	"9o.hist./opt/dev_play/go_projects/src/go_lang_base/echo_server":
+	[
+		"go version",
+		"go run",
+		"build",
+		"run",
+		"kill",
+		"ps -ef | grep echo",
+		"help",
+		"tskill",
+		"replay",
+		"tskill replay"
+	],
+	"9o.hist./opt/dev_play/go_projects/src/go_lang_base/memory":
+	[
+		"go fix",
+		"go fix memory/uintptr_test.go",
+		"go help fix",
+		"go tool fix",
+		"go tool fix .",
+		"go tool fix memory",
+		"go tool fix memory/uintptr_test.go"
+	],
+	"9o.hist./opt/dev_play/go_projects/src/go_lang_base/reflect":
+	[
+		"go run .",
+		"go build",
+		"go run",
+		"help",
+		"run"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r13.12.26-3",
+	"version": "r13.12.26-3"
+}
