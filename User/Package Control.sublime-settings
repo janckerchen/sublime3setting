@@ -1,17 +1,32 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Case Conversion",
+		"Codecs33",
+		"Color Highlighter",
+		"ConvertToUTF8",
 		"Dracula Color Scheme",
 		"EJS",
+		"FileDiffs",
+		"Ginkgo Completions",
 		"Git",
 		"GoSublime",
 		"LESS",
-		"Markdown Preview",
+		"Markdown Extended",
+		"MetaQuotes (MQL4) Language Package",
 		"Nodejs",
+		"Package Control",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized",
+		"Theme - Spacegray",
+		"TrailingSpaces"
 	]
 }

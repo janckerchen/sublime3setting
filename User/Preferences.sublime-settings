@@ -13,32 +13,47 @@
 	"auto_complete_delay": 1000,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/IntelliJ Darcula.tmTheme",
+	"detect_indentation": false,
 	"fade_fold_buttons": false,
-	"fallback_encoding": "UTF-8",
 	"file_exclude_patterns":
 	[
 		".tm*",
 		".tags*",
 		".project",
-		"*.sublime-workspace",
-		".DS_Store"
+		"*.sublime-*",
+		".DS_Store",
+		"*.graffle"
+	],
+	"folder_exclude_patterns":
+	[
+		".idea",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Ionic Framework Snippets",
+		"Theme - Flatland",
 		"Vintage"
 	],
 	"line_padding_top": 2,
+	"rulers":
+	[
+		100
+	],
 	"table_cleaner_align_to_middle": false,
 	"table_cleaner_delimiters":
 	[
 		"|",
 		"&",
-		"	"
+		" "
 	],
-	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }

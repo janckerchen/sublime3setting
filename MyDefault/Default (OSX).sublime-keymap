@@ -96,11 +96,12 @@
 
   //Format
   { "keys": ["super+alt+]"], "command": "alignment" },
-  { "keys": ["super+alt+["], "command": "reindent" },
+  // { "keys": ["super+alt+["], "command": "reindent" },
+  { "keys": ["super+alt+["], "command": "beautify_ruby" },
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["super+shift+v"], "command": "paste" },
-  // { "keys": ["alt+shift+\\"], "command": "align_columns" },  
-  { "keys": ["alt+shift+\\"], "command": "table_cleaner" },  
+  // { "keys": ["alt+shift+\\"], "command": "align_columns" },
+  { "keys": ["alt+shift+\\"], "command": "table_cleaner" },
 
   //Edit
   { "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
@@ -180,24 +181,24 @@
   //Test, should add selector
   // { "keys": ["super+shift+r"], "command": "run_terminal_test", "args": {"single": true} },
   // { "keys": ["super+alt+r"], "command": "run_terminal_test", "args": {"single": false} },
-  
+
 
 
   ////////////////////////////////////////////////////////////////////////////
-  // 
+  //
   ////////////////////////////////////////////////////////////////////////////
   { "keys": ["super+,"], "command": "show_scope_name" },
-  
+
   ////////////////////////////////////////////////////////////////////////////
   //  no use
-  //////////////////////////////////////////////////////////////////////////// 
-   
+  ////////////////////////////////////////////////////////////////////////////
+
   // super+,
 
   ////////////////////////////////////////////////////////////////////////////
   //  End
-  //////////////////////////////////////////////////////////////////////////// 
+  ////////////////////////////////////////////////////////////////////////////
 
   {}
-  
+
 ]

@@ -210,3 +210,462 @@ runtime.goexit()
 ** 2014-02-25 00:00:07.879272 **:
 GsComplete: broker: gocode_complete#mg9.autoken.a681c689-6a3b-4fe5-996d-333fe6610881 PANIC
 --------------------------------
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.1/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev_study/study_go/pkg/darwin_amd64:/opt/dev_play/go_projects/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.1/libexec", GOPATH:"/usr/local/go:/opt/dev_study/study_go:/opt/dev_play/go_projects", InstallSuffix:""}
+Gocode pkg: "github.com/govend/govend/deps"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "fxquant"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "fxquant/log"
+Gocode pkg: "fxquant"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/lang"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "trend_following/lang"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/vendor/github.com/op/go-logging"
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/vendor/github.com/op/go-logging"
+Gocode pkg: "trend_following/vendor/github.com/op/go-logging/examples"
+Gocode pkg: "trend_following/vendor/github.com/op/go-logging"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/hook"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/examples/basic"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/op/go-logging/examples"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/hooks/test"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/hooks/syslog"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/hooks/test"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/hooks/syslog"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus"
+Gocode pkg: "trend_following/vendor/github.com/Sirupsen/logrus/hooks/syslog"
+Gocode pkg: "trend_following/vendor/github.com/sohlich/elogrus"
+Gocode pkg: "trend_following/vendor/github.com/sohlich/elogrus"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/config"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/suite"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/leafnodes"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/gstruct"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/internal/assertion"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/types"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/codelocation"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/gstruct"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/matchers"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/internal/assertion"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/matchers"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/format"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/format"
+Gocode pkg: "trend_following/utils"
+margo: 2016/10/28 10:05:12 broker.go:105: gocode_calltip#mg9.autoken.3ae815df-582a-476f-a195-1900ad1958ff PANIC: open /opt/dev/fxquant/go/src/trend_following/utils/: no such file or directory
+goroutine 74 [running]:
+disposa.blue/cmd/margo_pkg.(*Broker).call.func1(0xc4213dd760, 0xc42000aa80)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:104 +0xc2
+panic(0x40bd40, 0xc421577230)
+	/usr/local/Cellar/go/1.7.3/libexec/src/runtime/panic.go:458 +0x243
+disposa.blue/something-borrowed/gocode.find_other_package_files(0xc42199c180, 0x3c, 0xc421561020, 0xb, 0xc421571760, 0xc4209cb340, 0x10801)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/autocompletecontext.go:462 +0x555
+disposa.blue/something-borrowed/gocode.get_other_package_files(0xc42199c180, 0x3c, 0xc421561020, 0xb, 0xc4200f6e40, 0x13ea89, 0x668ba0, 0xc421561110)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/autocompletecontext.go:427 +0x67
+disposa.blue/something-borrowed/gocode.(*auto_complete_context).update_caches(0xc420100980)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/autocompletecontext.go:161 +0x120
+disposa.blue/something-borrowed/gocode.(*auto_complete_context).apropos(0xc420100980, 0xc420090f20, 0xa2, 0xb0, 0xc42199c180, 0x3c, 0x85, 0x2, 0x2, 0xc42199c180, ...)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/autocompletecontext.go:303 +0x1d9
+disposa.blue/something-borrowed/gocode.(*margoState).Complete(0xc4200fa210, 0x1, 0x0, 0x0, 0xc421592420, 0x22, 0xc4213ddb80, 0x2, 0x2, 0xc420090f20, ...)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/gosublime_gocode_bridge.go:78 +0x144
+disposa.blue/cmd/margo_pkg.(*mGocode).completions(0xc421184d80, 0xc420090f20, 0xa2, 0xb0, 0xc42199c180, 0x3c, 0x85, 0x0, 0xb0, 0xc420090f20)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/m_gocode.go:95 +0x144
+disposa.blue/cmd/margo_pkg.(*mGocode).calltips(0xc421184d80, 0xc420090f20, 0xa2, 0xb0, 0xc42199c180, 0x3c, 0x8d, 0xc421c45dd0, 0x5faa7, 0xc421dbe040)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/m_gocode.go:105 +0x196
+disposa.blue/cmd/margo_pkg.(*mGocode).Call(0xc421184d80, 0x4c3338, 0xc4213dd760, 0xc42000aa80, 0x3)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/m_gocode.go:74 +0x159
+disposa.blue/cmd/margo_pkg.(*Broker).call(0xc42000aa80, 0xc4213dd760, 0x663b20, 0xc421184d80)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:113 +0x9a
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:188 +0xda
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 1 [syscall]:
+syscall.Syscall(0x3, 0x0, 0xc420136000, 0x1000, 0x19, 0xc420050000, 0x5)
+	/usr/local/Cellar/go/1.7.3/libexec/src/syscall/asm_darwin_amd64.s:16 +0x5
+syscall.read(0x0, 0xc420136000, 0x1000, 0x1000, 0x23, 0x857bb8, 0x3f0820)
+	/usr/local/Cellar/go/1.7.3/libexec/src/syscall/zsyscall_darwin_amd64.go:973 +0x55
+syscall.Read(0x0, 0xc420136000, 0x1000, 0x1000, 0xc421dfc600, 0x857bb8, 0xc421560b01)
+	/usr/local/Cellar/go/1.7.3/libexec/src/syscall/syscall_unix.go:161 +0x49
+os.(*File).read(0xc42002c008, 0xc420136000, 0x1000, 0x1000, 0xc421c577f8, 0x7354b0, 0x0)
+	/usr/local/Cellar/go/1.7.3/libexec/src/os/file_unix.go:228 +0x6a
+os.(*File).Read(0xc42002c008, 0xc420136000, 0x1000, 0x1000, 0xea96, 0xc420126178, 0x1)
+	/usr/local/Cellar/go/1.7.3/libexec/src/os/file.go:101 +0x59
+bufio.(*Reader).fill(0xc420126000)
+	/usr/local/Cellar/go/1.7.3/libexec/src/bufio/bufio.go:97 +0x10c
+bufio.(*Reader).ReadSlice(0xc420126000, 0x4a0a, 0xc420126120, 0xc4208fbbd0, 0xc421c57a40, 0xc421c578c8, 0x41c900)
+	/usr/local/Cellar/go/1.7.3/libexec/src/bufio/bufio.go:330 +0xb5
+bufio.(*Reader).ReadBytes(0xc420126000, 0xc42012610a, 0xc421c57a40, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.7.3/libexec/src/bufio/bufio.go:408 +0x66
+disposa.blue/cmd/margo_pkg.(*Broker).accept(0xc42000aa80, 0xc420126120, 0xc42000aa00)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:128 +0x59
+disposa.blue/cmd/margo_pkg.(*Broker).Loop(0xc42000aa80, 0x4c0001)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:213 +0x156
+disposa.blue/cmd/margo_pkg.Main()
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/main.go:140 +0x769
+main.main()
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo/main.go:8 +0x14
+
+goroutine 9 [chan receive, 1 minutes]:
+disposa.blue/cmd/margo_pkg.init.2.func1()
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/g_autoinst.go:114 +0x92
+created by disposa.blue/cmd/margo_pkg.init.2
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/g_autoinst.go:117 +0x35
+
+goroutine 33 [chan receive, 1 minutes]:
+disposa.blue/something-borrowed/gocode.new_file_reader.func1(0xc4200f4168)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/utils.go:176 +0xa1
+created by disposa.blue/something-borrowed/gocode.new_file_reader
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/something-borrowed/gocode/utils.go:180 +0x8a
+
+goroutine 49 [sleep, locked to thread]:
+time.Sleep(0x77359400)
+	/usr/local/Cellar/go/1.7.3/libexec/src/runtime/time.go:59 +0xe1
+disposa.blue/cmd/margo_pkg.startOomKiller.func1(0x3e8)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/oom.go:31 +0x166
+created by disposa.blue/cmd/margo_pkg.startOomKiller
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/oom.go:33 +0x3f
+
+goroutine 22 [sleep]:
+time.Sleep(0x6fc23ac00)
+	/usr/local/Cellar/go/1.7.3/libexec/src/runtime/time.go:59 +0xe1
+disposa.blue/cmd/margo_pkg.Main.func1(0x6fc23ac00, 0xc42000aa80, 0xc4200135f0)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/main.go:122 +0x40
+created by disposa.blue/cmd/margo_pkg.Main
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/main.go:131 +0x88b
+
+goroutine 23 [chan receive, 2 minutes]:
+disposa.blue/cmd/margo_pkg.Main.func2(0xc42000aa80)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/main.go:135 +0x7b
+created by disposa.blue/cmd/margo_pkg.Main
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/main.go:138 +0x739
+
+goroutine 11 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 12 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 13 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 14 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 15 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 16 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 65 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 66 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 67 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 68 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 69 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 70 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 71 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 72 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 73 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 75 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 76 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 77 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+goroutine 78 [chan receive]:
+disposa.blue/cmd/margo_pkg.(*Broker).worker(0xc42000aa80, 0xc4200f21f0, 0xc420126120)
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:187 +0x8a
+created by disposa.blue/cmd/margo_pkg.(*Broker).Loop
+	/Users/jason/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/disposa.blue/cmd/margo_pkg/broker.go:209 +0x124
+
+
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/matchers"
+Gocode pkg: "trend_following/util"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/gbytes"
+Gocode pkg: "trend_following/util"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/gstruct"
+Gocode pkg: "trend_following/util"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/matchers"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/format"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/gstruct"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/format"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/matchers"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/internal/assertion"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/internal/assertion"
+Gocode pkg: "trend_following/util"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/internal/assertion"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/writer"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/suite"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/specrunner"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/suite"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/suite"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/containernode"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/specrunner"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/suite"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/specrunner"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/ginkgo"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/reporters/stenographer"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/specrunner"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/spec"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/internal/remote"
+Gocode pkg: "trend_following/vendor/github.com/onsi/ginkgo/types"
+Gocode pkg: "trend_following/util"
+Gocode pkg: "trend_following/vendor/github.com/alash3al/goemitter"
+Gocode pkg: "trend_following/util"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "trend_following/vendor/github.com/sohlich/elogrus"
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/vendor/github.com/sohlich/elogrus"
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/vendor/github.com/onsi/gomega/matchers"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/vendor/github.com/jinzhu/configor"
+Gocode pkg: "trend_following/config"
+Gocode pkg: "trend_following/config"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/log"
+Gocode pkg: "trend_following/util"
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "github.com/govend/govend/deps"
+Gocode pkg: "."
+Gocode pkg: "trend_following/lang"
+Gocode pkg: "trend_following/lang"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/usr/local/go/pkg/darwin_amd64:/opt/dev/fxquant/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/usr/local/go:/opt/dev/fxquant/go", InstallSuffix:""}
+
+** 2017-03-27 01:18:34.358691 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-03-27 01:18:34.371557 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2017-03-27 18:27:19.040943 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-03-27 18:27:19.048163 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2017-03-27 18:28:49.820336 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-03-27 18:28:49.825311 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2017-03-27 18:30:46.454167 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-03-27 18:30:46.460326 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2017-04-04 17:19:40.960711 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-04-04 17:19:40.967131 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2017-04-04 21:00:13.153207 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-04-04 21:00:13.158763 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
